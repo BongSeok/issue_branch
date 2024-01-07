@@ -1,0 +1,1 @@
+issue와 branch 연동
